@@ -1,0 +1,21 @@
+teste 02
+
+nome=input('Olá, qual o seu nome?')
+print('Seja bem vindo,',nome,'!')
+
+
+
+
+teste 03
+
+dia=input('Dia=')
+mes=input('Mes=')
+ano=input('Ano=')
+print('Você nasceu no dia,',dia,'de',mes,'de',ano,'. Correto?')
+
+
+teste 04
+
+n1=int(input('Digite o 1º número:'))
+n2=int(input('Digite o 2º número:'))
+print('A soma desses dois números é:',n1+n2)	
